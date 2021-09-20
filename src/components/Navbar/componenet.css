@@ -1,0 +1,6 @@
+.MuiDrawer-paper{
+ overflow: visible;
+}
+.MuiPaper-root .MuiDrawer-paper .MuiDrawer-paperAnchorTop .MuiPaper-elevation16{
+ overflow: visible;
+}
